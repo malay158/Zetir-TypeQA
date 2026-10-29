@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the corresponding ZeTIR paper if you use this research implementation."
+title: "ZeTIR Research Reproduction Package"
+type: software
+authors:
+  - family-names: Sahu
+    given-names: Ashutosh Kumar
+  - family-names: Majhi
+    given-names: Malay Kumar
+  - family-names: Saha
+    given-names: Sujan Kumar
+version: 0.1.0
